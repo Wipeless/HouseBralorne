@@ -1,0 +1,64 @@
+body {
+	background:black;
+	margin:0px;	
+}
+
+.Images tr
+{
+	display:inline;
+}
+
+.Video tr
+{
+	
+}
+
+.Container { 
+	background:none;
+	padding:20px 40px 40px 40px;
+}
+
+.ContainerTop { 
+	padding:0 0 50px 0;
+}
+
+.ContainerSocialMedia {
+	margin:0;
+	padding:20px 0 0 0;
+}
+.ContainerSocialMedia_Inside {
+	margin:0;
+	width:256px;
+}
+.ContainerSocialMedia_Inside table {
+	padding:0px 0 0px 30px;	
+	height:100px;	
+}
+.ContainerSocialMedia_Inside td {
+	transition: all 0.25s ease 0s;
+	padding:20px 0 0 10px;
+}
+.ContainerSocialMedia_Inside td:Hover {
+	padding:0 0 0 10px;
+}
+
+img
+{
+	padding:5px;
+}
+
+p 
+{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	font-weight:normal;
+	color:#FFF;
+}
+
+h1
+{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:30px;
+	font-weight:bold;
+	color:#FFF;
+}
